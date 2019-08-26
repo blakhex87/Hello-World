@@ -8,7 +8,7 @@ int main()
 {
 	string name1="Blake Jones";
 	hello1Function(name1);
-	string name2="your name2";
+	string name2="Jawad Ayache";
 	hello2Function(name2);
 	return 0;
 }
